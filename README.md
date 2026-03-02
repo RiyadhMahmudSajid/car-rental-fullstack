@@ -34,4 +34,8 @@ The standout feature of DriveEase is its Fluid Motion Design. By integrating Rea
 * Advanced Data Validation: Implement strict schema-based validation using Zod or Joi to ensure higher data integrity and prevent malicious inputs.
 * Integrated Payment Gateway: Add a seamless checkout experience by integrating SSLCommerz or Stripe for direct and secure rental payments.
 * Automated Booking Notifications: Implement an automated SMS or Email alert system to notify users about their booking confirmation and return deadlines.
+## Clone the Repositories
+First, clone both the Frontend and Backend repositories:
+* **Frontend:** git clone [frontend-repo-link](https://github.com/RiyadhMahmudSajid/car-rental-client.git)
+* **Backend:** git clone [backend-repo-link](https://github.com/RiyadhMahmudSajid/car-rental-server.git)
 # [Live Site:](https://car-rental-4b1d1.web.app/)
